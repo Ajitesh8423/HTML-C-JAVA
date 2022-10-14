@@ -16,6 +16,6 @@ int main(int argc, char const *argv[])
 {
     int a,b;
     cin>>a>>b;
-    cout<<"The GCD of "<<a<<" and "<<b<<" is "<<GCD(a,b);
+    cout<<"The Greatest common divisor  of "<<a<<" and "<<b<<" is "<<GCD(a,b);
     return 0;
 }
